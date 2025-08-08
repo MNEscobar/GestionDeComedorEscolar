@@ -26,4 +26,4 @@ Automatizar la gestión de stock del comedor escolar, facilitando el control de 
 - Filtros y búsqueda avanzada en el historial.
 - Backups automáticos de la base de datos.
 
-## [Estructura del repositorio]
+## [Estructura del repositorio]()
