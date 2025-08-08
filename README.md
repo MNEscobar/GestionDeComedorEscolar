@@ -1,7 +1,7 @@
 # Gestion de Stock Comedor Escolar
 
 ## 📋Descripción del Proyecto
-Este proyecto es una aplicación de escritorio desarrollada en ``**Java**`` con ``**SQLite**`` para gestionar el stock de alimentos y suministros de un comedor escolar.  
+Este proyecto es una aplicación de escritorio desarrollada en ``Java`` con ``SQLite`` para gestionar el stock de alimentos y suministros de un comedor escolar.  
 El sistema permite registrar productos, registrar entradas y salidas de stock, y llevar un historial actualizado de todos los movimientos, evitando el trabajo manual de actualizar planillas de Excel.
 
 ## 🎯Objetivo
